@@ -10,7 +10,9 @@
 ```bash
 grep [options] pattern [file...]
 
-----
+--------------------------------------
+
+```
 Search a word in a file:
 
 grep "root" /etc/passwd
