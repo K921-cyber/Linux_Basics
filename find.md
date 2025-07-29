@@ -8,7 +8,7 @@ The `find` command is used to **search for files and directories** in a director
 ## ⚙️ Basic Syntax:
 ```bash
 find [path] [options] [expression]
-
+```
 Find all .txt files in a directory:
 -----------------------
 find /home/kabir/Documents -name "*.txt"
