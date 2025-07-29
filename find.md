@@ -11,7 +11,7 @@ find [path] [options] [expression]
 ```
 Find all .txt files in a directory:
 -----------------------
-find /home/kabir/Documents -name "*.txt"
+find /home/user-name/Documents -name "*.txt"
 
  Find files larger than 100MB
  ----
