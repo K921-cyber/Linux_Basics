@@ -5,4 +5,4 @@
 - [`grep`](grep.md) – Search for patterns in text
 - [`find`](find.md) - Search through the given set of info 
 - [`chmod`](chmod.md) -change the access permissions of files and directories
--[`echo and Shell operator`](echo and Shell operator.md)
+- [`echo and Shell operator`](echo-and-Shell-operator.md)
