@@ -65,5 +65,6 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`chmod`](chmod.md) -change the access permissions of files and directories
 - [`echo and Shell operator`](echo-and-Shell-operator.md) -print the words
 - [`whoami`](whoami.md) -Prints the current effective username
-- [ `ps`](ps.md) -information about active processes 
+- [ `ps`](ps.md) -information about active processes
+- [`kill`](kill.md) -terminate or signal process
 
