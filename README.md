@@ -67,4 +67,4 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`whoami`](whoami.md) -Prints the current effective username
 - [ `ps`](ps.md) -information about active processes
 - [`kill`](kill.md) -terminate or signal process
-
+- [`tar`](tar.md) -create, maintain, modify, extract files
