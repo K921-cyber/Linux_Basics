@@ -59,6 +59,11 @@ cat file1 > file
 ```
 <img width="1306" height="232" alt="image" src="https://github.com/user-attachments/assets/63c16dd9-0b8e-41ea-89f4-fad104bc1cc2" />
 
+---
+```
+cat file1 >> file2
+```
+<img width="1188" height="251" alt="image" src="https://github.com/user-attachments/assets/761ae00c-684a-4b8a-bf99-6d70ce778f06" />
 
 ---
 
