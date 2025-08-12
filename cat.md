@@ -71,6 +71,11 @@ cat > newfile.txt
 ```
 <img width="1130" height="172" alt="image" src="https://github.com/user-attachments/assets/2630f330-a499-4385-9052-ab07dd660211" />
 
+---
+```
+cat -n newfile.txt
+```
+<img width="1194" height="135" alt="image" src="https://github.com/user-attachments/assets/62f35804-0267-4d23-8256-c2ad581d0dcf" />
 
 ---
 
