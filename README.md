@@ -59,7 +59,7 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 ## 📘 Learn Linux
 
 - [Introduction to Linux and Basic Commands](linux-intro.md)
-- [`basic directory command`](grep.md) - In directory search
+- [`basic directory command`](linux-intro.md) - In directory search
 - [`cat`](cat.md) – read concatenate and display
 - [`grep`](grep.md) – Search for patterns in text
 - [`find`](find.md) - Search through the given set of info 
