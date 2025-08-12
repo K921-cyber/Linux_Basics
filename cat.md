@@ -38,6 +38,24 @@ It can:
 | `-s`   | Squeeze multiple blank lines into one  |
 
 ---
+---
+Examples
+---
+
+```
+cat file.txt
+```
+<img width="1038" height="95" alt="image" src="https://github.com/user-attachments/assets/ab840b60-662f-4cb3-9e11-a39e78f00d2f" />
+
+---
+```
+cat file1 file2
+```
+<img width="1136" height="110" alt="image" src="https://github.com/user-attachments/assets/136671e7-c206-4f31-b56a-2837a29d124c" />
+
+
+
+---
 
 ## ✅ Use Cases
 
