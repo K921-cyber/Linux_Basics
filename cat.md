@@ -66,6 +66,13 @@ cat file1 >> file2
 <img width="1188" height="251" alt="image" src="https://github.com/user-attachments/assets/761ae00c-684a-4b8a-bf99-6d70ce778f06" />
 
 ---
+```
+cat > newfile.txt
+```
+<img width="1130" height="172" alt="image" src="https://github.com/user-attachments/assets/2630f330-a499-4385-9052-ab07dd660211" />
+
+
+---
 
 ## ✅ Use Cases
 
