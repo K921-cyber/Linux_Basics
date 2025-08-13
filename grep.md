@@ -56,6 +56,5 @@ The `grep` command stands for **Global Regular Expression Print**. It is used to
 
 ---
 
-✨ Master `grep` and you're halfway to becoming a terminal ninja. 💻 Next up? Maybe `sed` or `awk`!
 
 
