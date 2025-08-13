@@ -40,7 +40,6 @@ It can:
 ---
 ---
 ## Examples
----
 
 ```
 cat file.txt
