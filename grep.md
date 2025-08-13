@@ -36,6 +36,11 @@ The `grep` command stands for **Global Regular Expression Print**. It is used to
 
 ---
 
+---
+Example
+
+---
+
 ## ✅ Use Cases
 
 - 🧪 **Log File Analysis**  
