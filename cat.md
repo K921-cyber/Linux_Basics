@@ -39,7 +39,7 @@ It can:
 
 ---
 ---
-Examples
+## Examples
 ---
 
 ```
