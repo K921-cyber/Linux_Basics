@@ -70,3 +70,4 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`kill`](kill.md) -terminate or signal process
 - [`tar`](tar.md) -create, maintain, modify, extract files
 - [`top`](top.md) -process monitoring tool
+- [`touch`](touch.md) -creates new empty files
