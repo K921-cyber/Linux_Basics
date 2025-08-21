@@ -61,10 +61,10 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [Introduction to Linux and Basic Commands](linux-intro.md)
 - [`basic directory command`](linux-intro.md) - In directory search
 - [`cat`](info/cat.md) – read concatenate and display
-- [`grep`](grep.md) – Search for patterns in text
+- [`grep`](info/grep.md) – Search for patterns in text
 - [`find`](find.md) - Search through the given set of info 
-- [`chmod`](chmod.md) -change the access permissions of files and directories
-- [`echo and Shell operator`](echo-and-Shell-operator.md) -print the words
+- [`chmod`](info/chmod.md) -change the access permissions of files and directories
+- [`echo and Shell operator`](info/echo.md) -print the words
 - [`whoami`](whoami.md) -Prints the current effective username
 - [ `ps`](ps.md) -information about active processes
 - [`kill`](kill.md) -terminate or signal process
