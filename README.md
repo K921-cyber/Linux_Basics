@@ -59,17 +59,17 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 ## 📘 Learn Linux
 
 - [Introduction to Linux and Basic Commands](linux-intro.md)
-- [`basic directory command`](linux-intro.md) - In directory search
+- [`basic directory command`](info/linux-intro.md) - In directory search
 - [`cat`](info/cat.md) – read concatenate and display
 - [`grep`](info/grep.md) – Search for patterns in text
-- [`find`](find.md) - Search through the given set of info 
+- [`find`](info/find.md) - Search through the given set of info 
 - [`chmod`](info/chmod.md) -change the access permissions of files and directories
 - [`echo and Shell operator`](info/echo.md) -print the words
-- [`whoami`](whoami.md) -Prints the current effective username
-- [ `ps`](ps.md) -information about active processes
-- [`kill`](kill.md) -terminate or signal process
-- [`tar`](tar.md) -create, maintain, modify, extract files
-- [`top`](top.md) -process monitoring tool
-- [`touch`](touch.md) -creates new empty files
-- [`file`](file.md) -determines type of file
-- [`ping`](ping.md) - checks the cconnectivity
+- [`whoami`](info/whoami.md) -Prints the current effective username
+- [ `ps`](info/ps.md) -information about active processes
+- [`kill`](info/kill.md) -terminate or signal process
+- [`tar`](info/tar.md) -create, maintain, modify, extract files
+- [`top`](info/top.md) -process monitoring tool
+- [`touch`](info/touch.md) -creates new empty files
+- [`file`](info/file.md) -determines type of file
+- [`ping`](info/ping.md) - checks the cconnectivity
