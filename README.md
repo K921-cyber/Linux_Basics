@@ -72,4 +72,5 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`top`](info/top.md) -process monitoring tool
 - [`touch`](info/touch.md) -creates new empty files
 - [`file`](info/file.md) -determines type of file
-- [`ping`](info/ping.md) - checks the cconnectivity
+- [`ping`](info/ping.md) -checks the cconnectivity
+- [`head `](info/head.md) -view first few lines
