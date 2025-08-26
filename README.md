@@ -74,3 +74,4 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`file`](info/file.md) -determines type of file
 - [`ping`](info/ping.md) -checks the cconnectivity
 - [`head `](info/head.md) -view first few lines
+- [`wc`](info/wc.md) -count lines,words,charcters nad bytes
