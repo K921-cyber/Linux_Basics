@@ -62,6 +62,7 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`basic directory command`](info/linux-intro.md) - In directory search
 - [`cat`](info/cat.md) – read concatenate and display
 - [`grep`](info/grep.md) – Search for patterns in text
+- [`nano`](info/nano) - terminal based text editor
 - [`find`](info/find.md) - Search through the given set of info 
 - [`chmod`](info/chmod.md) -change the access permissions of files and directories
 - [`echo and Shell operator`](info/echo.md) -print the words
