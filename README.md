@@ -77,3 +77,4 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`head `](info/head.md) -view first few lines
 - [`wc`](info/wc.md) -count lines,words,charcters nad bytes
 - [`mkdir`](info/mkdir) -create new directory and folders
+- [`tail`](info/tail.md) -view last part of file
