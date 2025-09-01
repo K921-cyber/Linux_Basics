@@ -79,3 +79,4 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`mkdir`](info/mkdir) -create new directory and folders
 - [`tail`](info/tail.md) -view last part of file
 - [`df`](info/df.md) -check disk space usage
+- [`free`](info/free.md) =check RAM and swap memory usage
