@@ -82,4 +82,5 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`df`](info/df.md) -check disk space usage
 - [`free`](info/free.md) =check RAM and swap memory usage
 - [`du`](info/du.md) -estimate and summarize the disk usage
+- [`uname`](info/uname.md) -prints system information
 - [`uptime`](info/uptime.md) -display how long system had been running 
