@@ -65,6 +65,7 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`grep`](info/grep.md) – Search for patterns in text
 - [`find`](info/find.md) - Search through the given set of info 
 - [`chmod`](info/chmod.md) -change the access permissions of files and directories
+- [`touch`](info/touch.md) -creates new empty files
 - [`echo and Shell operator`](info/echo.md) -print the words
 - [`whoami`](info/whoami.md) -Prints the current effective username
 - [`nano`](info/nano.md) - terminal based text editor
@@ -72,7 +73,6 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`kill`](info/kill.md) -terminate or signal process
 - [`tar`](info/tar.md) -create, maintain, modify, extract files
 - [`top`](info/top.md) -process monitoring tool
-- [`touch`](info/touch.md) -creates new empty files
 - [`file`](info/file.md) -determines type of file
 - [`ping`](info/ping.md) -checks the cconnectivity
 - [`head `](info/head.md) -view first few lines
