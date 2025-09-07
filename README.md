@@ -63,11 +63,11 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`pwd`](info/pwd.md) -display the absolute path
 - [`cat`](info/cat.md) – read concatenate and display
 - [`grep`](info/grep.md) – Search for patterns in text
-- [`nano`](info/nano.md) - terminal based text editor
 - [`find`](info/find.md) - Search through the given set of info 
 - [`chmod`](info/chmod.md) -change the access permissions of files and directories
 - [`echo and Shell operator`](info/echo.md) -print the words
 - [`whoami`](info/whoami.md) -Prints the current effective username
+- [`nano`](info/nano.md) - terminal based text editor
 - [ `ps`](info/ps.md) -information about active processes
 - [`kill`](info/kill.md) -terminate or signal process
 - [`tar`](info/tar.md) -create, maintain, modify, extract files
@@ -79,8 +79,8 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`wc`](info/wc.md) -count lines,words,charcters nad bytes
 - [`mkdir`](info/mkdir) -create new directory and folders
 - [`tail`](info/tail.md) -view last part of file
+- [`du`](info/du.md) -estimate and summarize the disk usage
 - [`df`](info/df.md) -check disk space usage
 - [`free`](info/free.md) =check RAM and swap memory usage
-- [`du`](info/du.md) -estimate and summarize the disk usage
 - [`uname`](info/uname.md) -prints system information
 - [`uptime`](info/uptime.md) -display how long system had been running 
