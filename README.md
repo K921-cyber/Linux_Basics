@@ -3,6 +3,7 @@
 Linux is a **free and open-source operating system kernel** first developed by **Linus Torvalds** in 1991. Over time, it became the foundation for hundreds of **Linux distributions** used across desktops, servers, mobile devices, and embedded systems.
 
 ---
+if Linux not installed go -[`here`](https://github.com/K921-cyber/kali-linux-installation-guide)
 
 ## 📌 What is Linux?
 
