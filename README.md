@@ -61,7 +61,7 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 
 - [Introduction to Linux and Basic Commands](linux-intro.md)
 - [`basic directory command`](info/linux-intro.md) -In directory search
-- [`pwd`](info/pwd.md) -Display the absolute path
+- [`pwd`](info/pwd.md) - Display the absolute path
 - [`cat`](info/cat.md) –Read concatenate and display
 - [`grep`](info/grep.md) –Search for patterns in text
 - [`find`](info/find.md) -Search through the given set of info 
