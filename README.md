@@ -64,7 +64,7 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`pwd`](info/pwd.md) -display the absolute path
 - [`cat`](info/cat.md) –read concatenate and display
 - [`grep`](info/grep.md) –Search for patterns in text
-- [`find`](info/find.md) - Search through the given set of info 
+- [`find`](info/find.md) -Search through the given set of info 
 - [`chmod`](info/chmod.md) -change the access permissions of files and directories
 - [`touch`](info/touch.md) -creates new empty files
 - [`echo and Shell operator`](info/echo.md) -print the words
