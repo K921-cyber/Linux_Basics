@@ -60,28 +60,28 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 ## 📘 Learn Linux
 
 - [Introduction to Linux and Basic Commands](linux-intro.md)
-- [`basic directory command`](info/linux-intro.md) - In directory search
-- [`pwd`](info/pwd.md) -display the absolute path
-- [`cat`](info/cat.md) –read concatenate and display
+- [`basic directory command`](info/linux-intro.md) -In directory search
+- [`pwd`](info/pwd.md) -Display the absolute path
+- [`cat`](info/cat.md) –Read concatenate and display
 - [`grep`](info/grep.md) –Search for patterns in text
 - [`find`](info/find.md) -Search through the given set of info 
-- [`chmod`](info/chmod.md) -change the access permissions of files and directories
-- [`touch`](info/touch.md) -creates new empty files
-- [`echo and Shell operator`](info/echo.md) -print the words
+- [`chmod`](info/chmod.md) -Change the access permissions of files and directories
+- [`touch`](info/touch.md) -Creates new empty files
+- [`echo and Shell operator`](info/echo.md) -Print the words
 - [`whoami`](info/whoami.md) -Prints the current effective username
-- [`nano`](info/nano.md) - terminal based text editor
-- [ `ps`](info/ps.md) -information about active processes
-- [`kill`](info/kill.md) -terminate or signal process
-- [`tar`](info/tar.md) -create, maintain, modify, extract files
-- [`top`](info/top.md) -process monitoring tool
-- [`file`](info/file.md) -determines type of file
-- [`ping`](info/ping.md) -checks the cconnectivity
-- [`head `](info/head.md) -view first few lines
-- [`wc`](info/wc.md) -count lines,words,charcters nad bytes
-- [`mkdir`](info/mkdir) -create new directory and folders
-- [`tail`](info/tail.md) -view last part of file
-- [`du`](info/du.md) -estimate and summarize the disk usage
-- [`df`](info/df.md) -check disk space usage
-- [`free`](info/free.md) -check RAM and swap memory usage
-- [`uname`](info/uname.md) -prints system information
-- [`uptime`](info/uptime.md) -display how long system had been running 
+- [`nano`](info/nano.md) -Terminal based text editor
+- [ `ps`](info/ps.md) -Information about active processes
+- [`kill`](info/kill.md) -Terminate or signal process
+- [`tar`](info/tar.md) -Create, maintain, modify, extract files
+- [`top`](info/top.md) -Process monitoring tool
+- [`file`](info/file.md) -Determines type of file
+- [`ping`](info/ping.md) -Checks the cconnectivity
+- [`head `](info/head.md) -View first few lines
+- [`wc`](info/wc.md) -Count lines,words,charcters nad bytes
+- [`mkdir`](info/mkdir) -Create new directory and folders
+- [`tail`](info/tail.md) -View last part of file
+- [`du`](info/du.md) -Estimate and summarize the disk usage
+- [`df`](info/df.md) -Check disk space usage
+- [`free`](info/free.md) -Check RAM and swap memory usage
+- [`uname`](info/uname.md) -Prints system information
+- [`uptime`](info/uptime.md) -Display how long system had been running 
