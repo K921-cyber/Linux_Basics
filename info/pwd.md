@@ -26,4 +26,9 @@ It tells you exactly where you are in the filesystem.
 ## 🧾 Example Output  
 
 ```bash
-/home/chad/projects/linux-commands
+pwd
+
+```
+<img width="823" height="86" alt="image" src="https://github.com/user-attachments/assets/a2ba796f-d99c-448e-b35e-22121d51c3f1" />
+
+
