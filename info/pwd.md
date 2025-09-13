@@ -29,6 +29,6 @@ It tells you exactly where you are in the filesystem.
 pwd
 
 ```
-<img width="823" height="86" alt="image" src="https://github.com/user-attachments/assets/a2ba796f-d99c-448e-b35e-22121d51c3f1" />
+<img width="823" height="86" alt="image" src="https://github.com/user-attachments/assets/f20af84c-6fcf-4faf-935a-03498ffe6a46" />
 
 
