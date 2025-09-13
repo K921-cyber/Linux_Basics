@@ -40,6 +40,11 @@ The `grep` command stands for **Global Regular Expression Print**. It is used to
 ---
 ## Example
 
+```
+grep "hello" file.txt
+```
+<img width="697" height="80" alt="image" src="https://github.com/user-attachments/assets/21e5f59d-dd27-4f81-a631-d970b7234f36" />
+
 ---
 
 ## ✅ Use Cases
