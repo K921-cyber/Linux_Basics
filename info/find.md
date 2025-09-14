@@ -39,6 +39,13 @@ Unlike `locate`, `find` searches the file system in real-time. It’s very power
 
 ---
 ## Example
+```
+find / -name "file.txt" 
+
+```
+
+
+
 
 ---
 ## ✅ Use Cases
