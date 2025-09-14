@@ -37,6 +37,10 @@ Unlike `locate`, `find` searches the file system in real-time. It’s very power
 
 ---
 
+---
+## Example
+
+---
 ## ✅ Use Cases
 
 - 🧹 **Cleanup Scripts**  
