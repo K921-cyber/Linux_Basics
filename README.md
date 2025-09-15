@@ -31,7 +31,7 @@ Whether you’re a beginner or brushing up on Linux skills, this repo will help 
 - [🔹 What is Linux?](#-what-is-linux)
 - [🔹 Why is Linux Important?](#-why-is-linux-important)
 - [🔹 Common Distributions](#-common-linux-distributions)
-- [🔹 Commands & Cheatsheets](#-Contribute-&-Learn-Linux
+- [🔹 Commands & Cheatsheets](#-Contribute-&-Learn-Linux).
 )
 
 ---
