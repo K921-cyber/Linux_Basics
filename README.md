@@ -1,6 +1,15 @@
-<h1 align="center">🐧 Linux Learning Path</h1>
+
+<h1 align="center">🐧 Linux Learning Path 🚀</h1>
+
 <p align="center">
-   Your personal guide to mastering Linux step by step 🚀  
+   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Master+Linux+Step+by+Step;Learn+Commands+Like+a+Pro;Open+Source+%7C+Cybersecurity+%7C+DevOps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Linux-Learning%20Path-blue?logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/Open%20Source-❤-brightgreen?logo=opensourceinitiative" />
+   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?logo=github" />
+   <img src="https://img.shields.io/github/stars/K921-cyber/yourrepo?style=social" />
 </p>
 
 ---
