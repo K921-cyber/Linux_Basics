@@ -85,3 +85,85 @@ Linux itself is just a **kernel**—the core part of the operating system that m
 - [`free`](info/free.md) -Check RAM and swap memory usage
 - [`uname`](info/uname.md) -Prints system information
 - [`uptime`](info/uptime.md) -Display how long system had been running 
+
+
+
+
+
+<h1 align="center">🐧 Linux Learning Path</h1>
+<p align="center">
+   Your personal guide to mastering Linux step by step 🚀  
+</p>
+
+---
+
+## ✨ About This Repo
+This repository is a **Linux learning journey** where I document important concepts, commands, and practical use cases.  
+Whether you’re a beginner or brushing up on Linux skills, this repo will help you learn effectively.  
+
+---
+
+## 📖 Table of Contents
+- [🔹 Background on Linux](#-background-on-linux)
+- [🔹 What is Linux?](#-what-is-linux)
+- [🔹 Why is Linux Important?](#-why-is-linux-important)
+- [🔹 Common Distributions](#-common-linux-distributions)
+- [🔹 What You Can Do With Linux](#-what-can-you-do-with-linux)
+- [🔹 Commands & Cheatsheets](#-linux-commands--cheatsheets)
+
+---
+
+## 🧑‍💻 Background on Linux
+Linux is a **free and open-source operating system kernel** first developed by Linus Torvalds in 1991.  
+Over time, it became the foundation for hundreds of **Linux distributions** used across desktops, servers, mobile devices, and embedded systems.
+
+👉 [Install Linux here](#)
+
+---
+
+## ❓ What is Linux?
+Linux itself is just a **kernel** — the part of the OS that manages hardware.  
+To become a full OS, it’s bundled with software like **GNU tools, shells, and graphical interfaces**. Together, they form a **Linux distribution (distro).**
+
+> 💡 Linux powers everything from **supercomputers** and **smartphones** to **cloud platforms** and **ethical hacking labs**.
+
+---
+
+## 🚀 Why is Linux Important?
+- 🆓 **Open Source:** Freely available and customizable  
+- 🔧 **Flexible:** Works on microcontrollers → massive servers  
+- 🔒 **Secure:** Designed with user permissions & isolation  
+- 👨‍💻 **Dev-Friendly:** Perfect for coding, scripting & DevOps  
+- 🌐 **Network-Ready:** Tools for monitoring & networking  
+
+---
+
+## 💡 Common Linux Distributions
+
+| Distribution | Description |
+|--------------|-------------|
+| **Ubuntu**   | Beginner-friendly and widely supported |
+| **Kali**     | Cybersecurity & penetration testing |
+| **Debian**   | Stability and reliability |
+| **Arch**     | Lightweight, fully customizable |
+| **CentOS**   | Enterprise-grade server OS |
+
+---
+
+## ⚡ What You Can Do With Linux
+- 🌍 Run web servers (Apache, NGINX)  
+- 🐍 Code in any major language (Python, C, Java)  
+- 🛡️ Perform cybersecurity tasks & forensics  
+- ⚙️ Automate tasks using shell scripts  
+- 🔍 Monitor and secure networks  
+- ☁️ Manage cloud instances (AWS, Azure, GCP)  
+
+---
+
+## 📌 Linux Commands & Cheatsheets
+📂 Check out the [commands](./commands) folder for step-by-step examples and explanations.  
+
+---
+
+## 🌟 Contribute
+Want to add commands, examples, or tips? Feel free to **fork & PR** 🚀  
