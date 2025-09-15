@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/badge/Linux-Learning%20Path-blue?logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/Open%20Source-❤-brightgreen?logo=opensourceinitiative" />
    <img src="https://img.shields.io/badge/Contributions-Welcome-orange?logo=github" />
-   <img src="https://img.shields.io/github/stars/K921-cyber/yourrepo?style=social" />
+   <img src="https://img.shields.io/github/stars/K921-cyber" />
 </p>
 
 ---
