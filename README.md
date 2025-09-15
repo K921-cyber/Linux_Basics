@@ -1,4 +1,3 @@
-
 <h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
 <p align="center">
