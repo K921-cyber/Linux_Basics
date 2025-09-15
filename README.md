@@ -114,16 +114,17 @@ Whether you’re a beginner or brushing up on Linux skills, this repo will help 
 ---
 
 ## 🧑‍💻 Background on Linux
-Linux is a **free and open-source operating system kernel** first developed by Linus Torvalds in 1991.  
-Over time, it became the foundation for hundreds of **Linux distributions** used across desktops, servers, mobile devices, and embedded systems.
 
-👉 [Install Linux here](#)
+Linux is a free and open-source operating system kernel first developed by Linus Torvalds in 1991. Over time, it became the foundation for hundreds of Linux distributions used across desktops, servers, mobile devices, and embedded systems.
 
----
+if Linux not installed go -here
 
-## ❓ What is Linux?
+##📌 What is Linux?
 Linux itself is just a **kernel** — the part of the OS that manages hardware.  
 To become a full OS, it’s bundled with software like **GNU tools, shells, and graphical interfaces**. Together, they form a **Linux distribution (distro).**
+Linux powers everything from supercomputers and smartphones to cloud platforms and ethical hacking labs.
+
+👉 [Install Linux here](#)
 
 > 💡 Linux powers everything from **supercomputers** and **smartphones** to **cloud platforms** and **ethical hacking labs**.
 
