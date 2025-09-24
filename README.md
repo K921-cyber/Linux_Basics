@@ -1,4 +1,4 @@
-hi <h1 align="center">🐧 Linux Learning Path 🚀</h1>
+<h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Master+Linux+Step+by+Step;Learn+Commands+Like+a+Pro;Open+Source+%7C+Cybersecurity+%7C+DevOps" alt="Typing SVG" />
