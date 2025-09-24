@@ -65,7 +65,7 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 
 | Distribution | Logo | Best For |
 |--------------|------|----------|
-| **Ubuntu**   | <img src="https://commons.wikimedia.org/w/index.php?curid=73811116" width="60"/> | Beginner-friendly and widely supported |
+| **Ubuntu**   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="60"/> | Beginner-friendly and widely supported |
 | **Kali**     | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Cybersecurity & penetration testing |
 | **Debian**   | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Debian_logo.png" width="60"/> | Stability and reliability |
 | **Arch**     | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="60"/> | Lightweight, fully customizable |
