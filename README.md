@@ -15,9 +15,6 @@
 
 🧠 *Whether you're a developer, sysadmin, or security enthusiast—understanding Linux opens the door to powerful tools and career opportunities.*
 
-
-
-
 ---
 
 ## ✨ About This Repo
@@ -67,9 +64,9 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 |--------------|------|----------|
 | **Ubuntu**   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="60"/> | Beginner-friendly and widely supported |
 | **Kali**     | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Cybersecurity & penetration testing |
-| **Debian**   | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Debian_logo.png" width="60"/> | Stability and reliability |
-| **Arch**     | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="60"/> | Lightweight, fully customizable |
-| **CentOS**   | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/CentOS-logo-light.svg" width="60"/> | Enterprise-grade server OS |
+| **Debian**   | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="60"/> | Stability and reliability |
+| **Arch**     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" width="60"/> | Lightweight, fully customizable |
+| **CentOS**   | <img src="https://cdn.freebiesupply.com/logos/large/2x/centos-1-logo-png-transparent.png" width="60"/> | Enterprise-grade server OS |
 
 
 ---
