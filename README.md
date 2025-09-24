@@ -1,4 +1,4 @@
-<h1 align="center">🐧 Linux Learning Path 🚀</h1>
+hi <h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Master+Linux+Step+by+Step;Learn+Commands+Like+a+Pro;Open+Source+%7C+Cybersecurity+%7C+DevOps" alt="Typing SVG" />
@@ -61,15 +61,16 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 
 ---
 
-## 💡 Common Linux Distributions
+## 🐧 Common Linux Distributions  
 
-| Distribution | Description |
-|--------------|-------------|
-| **Ubuntu**   | Beginner-friendly and widely supported |
-| **Kali**     | Cybersecurity & penetration testing |
-| **Debian**   | Stability and reliability |
-| **Arch**     | Lightweight, fully customizable |
-| **CentOS**   | Enterprise-grade server OS |
+| Distribution | Logo | Best For |
+|--------------|------|----------|
+| **Ubuntu**   | <img src="https://commons.wikimedia.org/w/index.php?curid=73811116" width="60"/> | Beginner-friendly and widely supported |
+| **Kali**     | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Cybersecurity & penetration testing |
+| **Debian**   | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Debian_logo.png" width="60"/> | Stability and reliability |
+| **Arch**     | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="60"/> | Lightweight, fully customizable |
+| **CentOS**   | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/CentOS-logo-light.svg" width="60"/> | Enterprise-grade server OS |
+
 
 ---
 
