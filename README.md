@@ -32,7 +32,8 @@ Whether you’re a beginner or brushing up on Linux skills, this repo will help 
 
 ---
 
-## 🧑‍💻 Background on Linux
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="60"/>  Background on Linux
+
 
 Linux is a free and open-source operating system kernel first developed by Linus Torvalds in 1991. Over time, it became the foundation for hundreds of Linux distributions used across desktops, servers, mobile devices, and embedded systems.
 
