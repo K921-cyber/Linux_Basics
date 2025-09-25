@@ -59,7 +59,7 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 
 ---
 
-## 🐧 Common Linux Distributions  
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="60"/> Common Linux Distributions  
 
 | Distribution | Logo | Best For |
 |--------------|------|----------|
