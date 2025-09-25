@@ -23,7 +23,7 @@ Whether you’re a beginner or brushing up on Linux skills, this repo will help 
 
 ---
 
-## 📖 Table of Contents
+## <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1024px-Wikipedia-logo-v2.svg.png" width="60"/> Table of Contents
 - [🔹 Background on Linux](#-background-on-linux)
 - [🔹 What is Linux?](#-what-is-linux)
 - [🔹 Why is Linux Important?](#-why-is-linux-important)
