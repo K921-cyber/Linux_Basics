@@ -72,7 +72,7 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 
 ---
 
-## ⚡ What You Can Do With Linux
+## <img src="https://i.pinimg.com/originals/32/88/2d/32882dbcd4424eb8e814ce8e62e68361.gif" alt="gif" width="60"/> What You Can Do With Linux
 - 🌍 Run web servers (Apache, NGINX)  
 - 🐍 Code in any major language (Python, C, Java)  
 - 🛡️ Perform cybersecurity tasks & forensics  
