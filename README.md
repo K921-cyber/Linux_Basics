@@ -82,7 +82,7 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 
 ---
 
-## <img src="" width="60"/> Contribute & Learn Linux
+## Contribute & Learn Linux
 
 - [Introduction to Linux and Basic Commands](linux-intro.md)
 - [`basic directory command`](info/linux-intro.md) -In directory search
