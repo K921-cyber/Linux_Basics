@@ -162,7 +162,41 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📖 Learn More (Free Resources)
+
+🔗 [Linux Journey (Interactive)](https://linuxjourney.com)  
+📘 [The Linux Command Line (Free Book)](https://linuxcommand.org/tlcl.php)  
+🎮 [OverTheWire: Bandit (Game-Based Learning)](https://overthewire.org/wargames/bandit/)  
+🧪 [TryHackMe: Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals)  
+📺 [YouTube: The Net Ninja - Linux Tutorials](https://youtube.com/playlist?list=PL4cUxeGkcC9iSUQijlxawrdwYlVppYRVD)
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repo 🍴
+2. Add a command guide, fix a typo, or improve an example ✍️
+3. Submit a Pull Request 🔄
+4. Get credited in our [🌟 Contributors](#-contributors) section!
+
+> 💬 *No contribution is too small — even fixing a typo helps!*
+
+---
+
+## 📜 License
+
+MIT © [K921-cyber](https://github.com/K921-cyber)  
+📚 Free to learn, share, teach — just don’t plagiarize 😊
+
+---
+
+⭐ **Star this repo if it helps you!**  
+📬 **Questions?** Open an Issue — I reply within 24h!
+
+> “Give a man a fish, he eats for a day. Teach him Linux, he owns the server.” — Ancient Hacker Proverb 😎🐧
 
 ```<h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
