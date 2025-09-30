@@ -198,89 +198,7 @@ MIT © [K921-cyber](https://github.com/K921-cyber)
 
 > “Give a man a fish, he eats for a day. Teach him Linux, he owns the server.” — Ancient Hacker Proverb 😎🐧
 
-```<h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Master+Linux+Step+by+Step;Learn+Commands+Like+a+Pro;Open+Source+%7C+Cybersecurity+%7C+DevOps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-   <img src="https://img.shields.io/badge/Linux-Learning%20Path-blue?logo=linux&logoColor=white" />
-   <img src="https://img.shields.io/badge/Open%20Source-❤-brightgreen?logo=opensourceinitiative" />
-   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?logo=github" />
-   <img src="https://img.shields.io/github/stars/K921-cyber" />
-</p>
-
----
-
-🧠 *Whether you're a developer, sysadmin, or security enthusiast—understanding Linux opens the door to powerful tools and career opportunities.*
-
----
-
-## ✨ About This Repo
-This repository is a **Linux learning journey** where I document important concepts, commands, and practical use cases.  
-Whether you’re a beginner or brushing up on Linux skills, this repo will help you learn effectively.  
-
----
-
-## <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1024px-Wikipedia-logo-v2.svg.png" width="60"/> Table of Contents
-- [🔹 Background on Linux](#-background-on-linux)
-- [🔹 What is Linux?](#-what-is-linux)
-- [🔹 Why is Linux Important?](#-why-is-linux-important)
-- [🔹 Common Distributions](#-common-linux-distributions)
-- [🔹 Commands & Cheatsheets](#-Contribute-&-Learn-Linux)
-
----
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="60"/>  Background on Linux
-
-
-Linux is a free and open-source operating system kernel first developed by Linus Torvalds in 1991. Over time, it became the foundation for hundreds of Linux distributions used across desktops, servers, mobile devices, and embedded systems.
-
-if Linux not installed go -here
-
-##📌 What is Linux?
-Linux itself is just a **kernel** — the part of the OS that manages hardware.  
-To become a full OS, it’s bundled with software like **GNU tools, shells, and graphical interfaces**. Together, they form a **Linux distribution (distro).**
-Linux powers everything from supercomputers and smartphones to cloud platforms and ethical hacking labs.
-
-👉 [Install Linux here](#)
-
-> 💡 Linux powers everything from **supercomputers** and **smartphones** to **cloud platforms** and **ethical hacking labs**.
-
----
-
-## 🚀 Why is Linux Important?
-- 🆓 **Open Source:** Freely available and customizable  
-- 🔧 **Flexible:** Works on microcontrollers → massive servers  
-- 🔒 **Secure:** Designed with user permissions & isolation  
-- 👨‍💻 **Dev-Friendly:** Perfect for coding, scripting & DevOps  
-- 🌐 **Network-Ready:** Tools for monitoring & networking  
-
----
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="60"/> Common Linux Distributions  
-
-| Distribution | Logo | Best For |
-|--------------|------|----------|
-| **Ubuntu**   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="60"/> | Beginner-friendly and widely supported |
-| **Kali**     | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Cybersecurity & penetration testing |
-| **Debian**   | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="60"/> | Stability and reliability |
-| **Arch**     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" width="60"/> | Lightweight, fully customizable |
-| **CentOS**   | <img src="https://cdn.freebiesupply.com/logos/large/2x/centos-1-logo-png-transparent.png" width="60"/> | Enterprise-grade server OS |
-
-
----
-
-## <img src="https://i.pinimg.com/originals/32/88/2d/32882dbcd4424eb8e814ce8e62e68361.gif" width="60">What You Can Do With Linux
-- 🌍 Run web servers (Apache, NGINX)  
-- 🐍 Code in any major language (Python, C, Java)  
-- 🛡️ Perform cybersecurity tasks & forensics  
-- ⚙️ Automate tasks using shell scripts  
-- 🔍 Monitor and secure networks  
-- ☁️ Manage cloud instances (AWS, Azure, GCP)  
-
----
 
 ##  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="60"/>Contribute & Learn Linux
 
@@ -312,13 +230,3 @@ Linux powers everything from supercomputers and smartphones to cloud platforms a
 - [`uptime`](info/uptime.md) -Display how long system had been running 
 
 
-
-## 🔗 Learn More
-
-- [Linux Journey](https://linuxjourney.com)
-- [The Linux Command Line Book (PDF)](https://linuxcommand.org/tlcl.php)
-- [TryHackMe: Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals)
-
-
-
-Want to add commands, examples, or tips? Feel free to **fork & PR** 🚀  
