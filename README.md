@@ -59,10 +59,10 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 
 | Distro | Logo | Best For | Try It |
 |--------|------|----------|--------|
-| **Ubuntu** | ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/120px-UbuntuCoF.svg.png) | Beginners, Devs, Desktop | [Download](https://ubuntu.com/download) |
-| **Kali Linux** | ![Kali](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg) | Pentesting, Security | [Download](https://www.kali.org/get-kali/) |
-| **Debian** | ![Debian](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Debian_logo.svg/120px-Debian_logo.svg.png) | Stability, Servers | [Download](https://www.debian.org/) |
-| **Arch Linux** | ![Arch](https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg) | Advanced Users, DIY | [Download](https://archlinux.org/) |
+| **Ubuntu** |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="60"/> | Beginners, Devs, Desktop | [Download](https://ubuntu.com/download) |
+| **Kali Linux** |  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Pentesting, Security | [Download](https://www.kali.org/get-kali/) |
+| **Debian** |  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="60"/>  | Stability, Servers | [Download](https://www.debian.org/) | 
+| **Arch Linux** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" width="60"/>  | Advanced Users, DIY | [Download](https://archlinux.org/) |
 | **Fedora** | ![Fedora](https://upload.wikimedia.org/wikipedia/commons/9/9a/Fedora_logo.svg) | Cutting-edge Tech | [Download](https://fedoraproject.org/) |
 
 > 💡 **Newbie? Start with Ubuntu.** Want to hack ethically? Grab **Kali Linux**.
