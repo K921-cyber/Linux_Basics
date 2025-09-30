@@ -73,7 +73,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 
 <div align="center">
 
-![Terminal GIF](https://media.giphy.com/media/l0HlG8vJkDQZzUjXO/giphy.gif)
+![Terminal GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt1MHptazlpbnQwN3ljcnA4ZGVidmY0dnczN3RicHFkNm02dGZ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif)
 
 </div>
 
