@@ -63,7 +63,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 | **Kali Linux** |  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Pentesting, Security | [Download](https://www.kali.org/get-kali/) |
 | **Debian** |  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="60"/>  | Stability, Servers | [Download](https://www.debian.org/) | 
 | **Arch Linux** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" width="60"/>  | Advanced Users, DIY | [Download](https://archlinux.org/) |
-| **Fedora** | ![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/1044px-Fedora_icon_%282021%29.svg.png) | Cutting-edge Tech | [Download](https://fedoraproject.org/) |
+| **Fedora** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/1044px-Fedora_icon_%282021%29.svg.png" width="60" /> | Cutting-edge Tech | [Download](https://fedoraproject.org/) |
 
 > 💡 **Newbie? Start with Ubuntu.** Want to hack ethically? Grab **Kali Linux**.
 
