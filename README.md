@@ -85,7 +85,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 
 ## 📚 Command Cheatsheets (Click to Expand!)
 
-<details>
+
 <summary>📁 Navigation & Files</summary>
 
 | Command | Description | Example |
@@ -99,9 +99,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 | `mv` | Move/rename | `mv old.txt new.txt` |
 | `rm` | Delete file | `rm temp.txt` *(careful!)* |
 
-</details>
 
-<details>
 <summary>🔍 Search & Text Tools</summary>
 
 | Command | Description | Example |
@@ -113,9 +111,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 | `head` / `tail` | View start/end of file | `tail -f logfile.log` |
 | `wc` | Count lines/words | `wc -l file.txt` |
 
-</details>
 
-<details>
 <summary>🔐 Permissions & Users</summary>
 
 | Command | Description | Example |
@@ -126,9 +122,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 | `sudo` | Run as admin | `sudo apt update` |
 | `passwd` | Change password | `passwd` |
 
-</details>
 
-<details>
 <summary>📊 System Monitoring</summary>
 
 | Command | Description | Example |
@@ -142,9 +136,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 | `uname` | System info | `uname -a` |
 | `uptime` | System uptime | `uptime` |
 
-</details>
 
-<details>
 <summary>📦 Archives & Networking</summary>
 
 | Command | Description | Example |
@@ -155,7 +147,7 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 | `ssh` | Remote login | `ssh user@server.com` |
 | `scp` | Secure copy | `scp file.txt user@host:/path` |
 
-</details>
+
 
 ---
 
