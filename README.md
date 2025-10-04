@@ -41,8 +41,6 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 
 ## 🚀 Why Learn Linux?
 
-<details>
-<summary>Click to expand 🔽</summary>
 
 - 🆓 **Free & Open Source** — Modify, share, learn without limits
 - 🔒 **Secure by Design** — Permissions, users, logs = defense-first OS
@@ -51,7 +49,6 @@ Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combi
 - 🛡️ **Hackers’ Playground** — Kali, Parrot, BlackArch — all Linux-based
 - 💻 **Developer Essential** — Git, Docker, Kubernetes, CI/CD — all love Linux
 
-</details>
 
 ---
 
