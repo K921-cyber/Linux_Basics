@@ -70,3 +70,12 @@ Linux is your **ultimate playground** for mastering technology and understanding
 Try:
 ```bash
 echo "Hello Linux World!"
+```
+
+<div align="center">
+🐧 Made with ❤️ for Linux Learners
+
+
+
+
+</div> ```
