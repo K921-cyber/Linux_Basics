@@ -1,7 +1,7 @@
 <h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=600&lines=Master+Linux+Step+by+Step;Learn+Commands+Like+a+Pro;Open+Source+%7C+Cybersecurity+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=600&lines=Master+Linux+Step+by+Step;Learn+Commands+Like+a+Pro;Open+Source+%7C+Cybersecurity+%7C+DevOps" />
 </p>
 
 <p align="center">
@@ -14,209 +14,213 @@
 
 ---
 
-> 💡 *"The shell is mightier than the sword."*  
-> Whether you’re a dev, pentester, or cloud engineer — **Linux is your superpower.**
+> 💡 *“The shell is mightier than the sword.”*  
+> Whether you're a developer, cybersecurity learner, or DevOps engineer — **Linux is your superpower.**
 
 ---
 
-## 🌟 Why This Repo?
+## 🌟 Why This Repository?
 
-✅ Beginner-friendly walkthroughs  
-✅ Practical command examples + cheat sheets  
-✅ Cybersecurity & DevOps context  
-✅ Contribute & grow together 🤝  
-✅ No fluff — just real, usable knowledge
+- ✔ Beginner-friendly guides  
+- ✔ Step-by-step learning roadmap  
+- ✔ Practical command examples  
+- ✔ Cybersecurity & DevOps context  
+- ✔ Open for contributions  
+- ✔ No fluff — only real, usable knowledge  
 
 ---
 
 ## 🐧 What is Linux?
 
-Linux is a **free, open-source kernel** created by Linus Torvalds in 1991. Combined with GNU tools, it becomes a full OS — called a **“distribution” (distro)**.
+Linux is an open-source **kernel** written by Linus Torvalds in 1991. Distros (Ubuntu, Kali, Fedora) are built around this kernel.
 
-> 🔧 Think of Linux as the engine. Distributions (Ubuntu, Kali, etc.) are the cars built around it.
+> 🔧 *Linux = Engine*  
+> *Distributions = Cars built around the engine*
 
-👉 [Install Linux for Free (Guide)](#-common-linux-distributions)
+👉 Scroll down to explore common Linux distributions.
 
 ---
 
 ## 🚀 Why Learn Linux?
 
-
-- 🆓 **Free & Open Source** — Modify, share, learn without limits
-- 🔒 **Secure by Design** — Permissions, users, logs = defense-first OS
-- ⚙️ **Automation Heaven** — Bash, Python, Cron — automate EVERYTHING
-- ☁️ **Cloud Native** — AWS, Azure, GCP? All run on Linux under the hood
-- 🛡️ **Hackers’ Playground** — Kali, Parrot, BlackArch — all Linux-based
-- 💻 **Developer Essential** — Git, Docker, Kubernetes, CI/CD — all love Linux
-
+- 🆓 **Free & Open Source**
+- 🔒 **Secure by Design**
+- ⚙️ **Perfect for Automation**
+- ☁️ **Cloud-Native (AWS, Azure, GCP)**
+- 🛡️ **Cybersecurity Industry Standard**
+- 💻 **Developer Essential** (Git, Docker, Kubernetes, CI/CD)
 
 ---
 
 ## 🖥️ Common Linux Distributions
 
-| Distro | Logo | Best For | Try It |
-|--------|------|----------|--------|
-| **Ubuntu** |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="60"/> | Beginners, Devs, Desktop | [Download](https://ubuntu.com/download) |
-| **Kali Linux** |  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60"/> | Pentesting, Security | [Download](https://www.kali.org/get-kali/) |
-| **Debian** |  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="60"/>  | Stability, Servers | [Download](https://www.debian.org/) | 
-| **Arch Linux** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" width="60"/>  | Advanced Users, DIY | [Download](https://archlinux.org/) |
-| **Fedora** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/1044px-Fedora_icon_%282021%29.svg.png" width="60" /> | Cutting-edge Tech | [Download](https://fedoraproject.org/) |
+| Distribution | Logo | Best For | Download |
+|--------------|------|----------|----------|
+| **Ubuntu** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1200px-UbuntuCoF.svg.png" width="55"/> | Beginners, Developers | [Download](https://ubuntu.com/download) |
+| **Kali Linux** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="55"/> | Pentesting, Security | [Download](https://www.kali.org/get-kali/) |
+| **Debian** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="55"/> | Servers, Stability | [Download](https://www.debian.org/) |
+| **Arch Linux** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="55"/> | Advanced Users | [Download](https://archlinux.org/) |
+| **Fedora** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" width="55"/> | Latest Tech, Workstations | [Download](https://fedoraproject.org/) |
 
-> 💡 **Newbie? Start with Ubuntu.** Want to hack ethically? Grab **Kali Linux**.
+> 🆕 **Beginners → Ubuntu**  
+> 🔐 **Hackers → Kali Linux**
 
 ---
 
-## 🎯 What Can You DO With Linux?
+## 🎯 What Can You Do With Linux?
 
 <div align="center">
-
-![Terminal GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt1MHptazlpbnQwN3ljcnA4ZGVidmY0dnczN3RicHFkNm02dGZ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif)
-
+  <img src="https://media1.giphy.com/media/dDwicM3uFUqfC/giphy.gif" width="480" />
 </div>
 
-- 🌐 Host websites (Apache, Nginx)
-- 🐍 Code & debug in Python, C++, Rust, Go
-- 🛡️ Run security tools: nmap, Wireshark, Metasploit
-- 🤖 Automate tasks with Bash/Python scripts
-- ☁️ Manage servers on AWS, DigitalOcean, Linode
-- 🧪 Experiment safely in VMs or containers
+- Host websites (Nginx/Apache)  
+- Write scripts in Bash/Python  
+- Run cybersecurity tools (nmap, Metasploit, Wireshark)  
+- Automate tasks  
+- Manage cloud servers  
+- Build DevOps pipelines  
 
 ---
 
-## 📚 Command Cheatsheets (Click to Expand!)
+# 📚 Linux Command Cheat Sheets
 
-
-<summary>📁 Navigation & Files</summary>
-
+### 📁 Navigation & File Management
 | Command | Description | Example |
-|---------|-------------|---------|
-| `pwd` | Show current directory | `pwd` → `/home/user` |
-| `ls` | List files | `ls -la` → show hidden + details |
-| `cd` | Change directory | `cd /var/log` |
-| `mkdir` | Create folder | `mkdir myproject` |
-| `touch` | Create empty file | `touch notes.txt` |
-| `cp` | Copy file/folder | `cp file1.txt backup/` |
-| `mv` | Move/rename | `mv old.txt new.txt` |
-| `rm` | Delete file | `rm temp.txt` *(careful!)* |
+|--------|-------------|---------|
+| `pwd` | Show working directory | `pwd` |
+| `ls` | List files | `ls -la` |
+| `cd` | Change directory | `cd /etc` |
+| `mkdir` | Create folder | `mkdir project` |
+| `touch` | Create file | `touch notes.txt` |
+| `cp` | Copy file | `cp file /backup/` |
+| `mv` | Move/rename | `mv test.txt old.txt` |
+| `rm` | Delete file | `rm file.txt` |
 
+---
 
-<summary>🔍 Search & Text Tools</summary>
-
+### 🔍 Search & Text Utilities
 | Command | Description | Example |
-|---------|-------------|---------|
-| `cat` | Display file content | `cat file.txt` |
-| `less` | Scroll through large files | `less big.log` |
-| `grep` | Search text patterns | `grep "error" syslog.log` |
-| `find` | Search for files | `find / -name "*.conf"` |
-| `head` / `tail` | View start/end of file | `tail -f logfile.log` |
-| `wc` | Count lines/words | `wc -l file.txt` |
+|--------|-------------|---------|
+| `cat` | Show file contents | `cat data.txt` |
+| `less` | Scroll inside file | `less logs.txt` |
+| `grep` | Search text | `grep "error" sys.log` |
+| `find` | Search files | `find / -name "*.conf"` |
+| `tail -f` | Live log view | `tail -f /var/log/auth.log` |
+| `wc` | Count words/lines | `wc -l file.txt` |
 
+---
 
-<summary>🔐 Permissions & Users</summary>
-
+### 🔐 Permissions & Users
 | Command | Description | Example |
-|---------|-------------|---------|
+|--------|-------------|---------|
 | `chmod` | Change permissions | `chmod +x script.sh` |
-| `chown` | Change owner | `sudo chown user:group file` |
-| `whoami` | Show current user | `whoami` → `kali` |
-| `sudo` | Run as admin | `sudo apt update` |
+| `chown` | Change owner | `sudo chown user file` |
+| `whoami` | Show user | `whoami` |
+| `sudo` | Admin privileges | `sudo apt update` |
 | `passwd` | Change password | `passwd` |
 
+---
 
-<summary>📊 System Monitoring</summary>
-
+### 📊 System Monitoring
 | Command | Description | Example |
-|---------|-------------|---------|
-| `top` / `htop` | Live process viewer | `htop` *(install first)* |
-| `ps` | List processes | `ps aux \| grep firefox` |
-| `kill` | Terminate process | `kill 1234` |
-| `df` | Disk space | `df -h` |
-| `du` | Folder size | `du -sh /home` |
-| `free` | Memory usage | `free -m` |
-| `uname` | System info | `uname -a` |
+|--------|-------------|---------|
+| `top` / `htop` | Monitor system | `htop` |
+| `ps` | List processes | `ps aux` |
+| `kill` | Kill a process | `kill 2221` |
+| `df -h` | Disk usage | `df -h` |
+| `du -sh` | Folder size | `du -sh /home` |
+| `free -m` | RAM usage | `free -m` |
+| `uname -a` | System version | `uname -a` |
 | `uptime` | System uptime | `uptime` |
 
+---
 
-<summary>📦 Archives & Networking</summary>
-
+### 🌐 Networking
 | Command | Description | Example |
-|---------|-------------|---------|
-| `tar` | Compress/extract | `tar -czvf archive.tar.gz folder/` |
-| `ping` | Test connectivity | `ping google.com` |
-| `ifconfig` / `ip` | Network config | `ip addr show` |
-| `ssh` | Remote login | `ssh user@server.com` |
-| `scp` | Secure copy | `scp file.txt user@host:/path` |
-
-
-
----
-
+|--------|-------------|---------|
+| `ping` | Check connectivity | `ping google.com` |
+| `ip addr` | Network details | `ip addr show` |
+| `ifconfig` | Old network tool | `ifconfig` |
+| `ssh` | Remote login | `ssh user@host` |
+| `scp` | Secure file copy | `scp file user@host:/path` |
+| `tar` | Archive/Extract | `tar -czvf data.tar.gz folder/` |
 
 ---
 
-## 📖 Learn More (Free Resources)
+# 📖 Recommended Learning Resources
 
-🔗 [Linux Journey (Interactive)](https://linuxjourney.com)  
-📘 [The Linux Command Line (Free Book)](https://linuxcommand.org/tlcl.php)  
-🎮 [OverTheWire: Bandit (Game-Based Learning)](https://overthewire.org/wargames/bandit/)  
-🧪 [TryHackMe: Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals)  
-📺 [YouTube: The Net Ninja - Linux Tutorials](https://youtube.com/playlist?list=PL4cUxeGkcC9iSUQijlxawrdwYlVppYRVD)
+- 📘 Linux Journey — *Beginner Interactive Lessons*  
+  https://linuxjourney.com  
 
----
+- 📗 The Linux Command Line (Free Book)  
+  https://linuxcommand.org/tlcl.php  
 
-## 🤝 How to Contribute
+- 🕹 OverTheWire: Bandit — *Hack your way through challenges*  
+  https://overthewire.org/wargames/bandit  
 
-1. Fork this repo 🍴
-2. Add a command guide, fix a typo, or improve an example ✍️
-3. Submit a Pull Request 🔄
-4. Get credited in our [🌟 Contributors](#-contributors) section!
+- 🧪 TryHackMe — Linux Fundamentals  
+  https://tryhackme.com/room/linuxfundamentals  
 
-> 💬 *No contribution is too small — even fixing a typo helps!*
+- ▶️ Net Ninja Linux Tutorials  
+  https://youtube.com/playlist?list=PL4cUxeGkcC9iSUQijlxawrdwYlVppYRVD  
 
 ---
 
-## 📜 License
+# 🤝 How to Contribute
 
-MIT © [K921-cyber](https://github.com/K921-cyber)  
-📚 Free to learn, share, teach — just don’t plagiarize 😊
+1. Fork the repository  
+2. Improve any section or add new command explanations  
+3. Submit a Pull Request  
+4. Get featured in the **Contributors Section**  
+
+> 💬 Even fixing a small typo improves the project!
 
 ---
 
-⭐ **Star this repo if it helps you!**  
-📬 **Questions?** Open an Issue — I reply within 24h!
+# 📜 License
 
-> “Give a man a fish, he eats for a day. Teach him Linux, he owns the server.” — Ancient Hacker Proverb 😎🐧
+Licensed under **MIT License**  
+© 2025 **K921-cyber**
 
+---
 
+# ⭐ Support the Project
 
-##  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="60"/>Contribute & Learn Linux
+If this project helped you:  
+👉 **Give it a ⭐ on GitHub**  
+👉 Share it with other learners  
 
-- [Introduction to Linux and Basic Commands](linux-intro.md)
-- [`basic directory command`](info/linux-intro.md) -In directory search
-- [`pwd`](info/pwd.md) -Display the absolute path
-- [`cat`](info/cat.md) –Read concatenate and display
-- [`grep`](info/grep.md) –Search for patterns in text
-- [`find`](info/find.md) -Search through the given set of info 
-- [`chmod`](info/chmod.md) -Change the access permissions of files and directories
-- [`touch`](info/touch.md) -Creates new empty files
-- [`echo and Shell operator`](info/echo.md) -Print the words
-- [`whoami`](info/whoami.md) -Prints the current effective username
-- [`nano`](info/nano.md) -Terminal based text editor
-- [ `ps`](info/ps.md) -Information about active processes
-- [`kill`](info/kill.md) -Terminate or signal process
-- [`tar`](info/tar.md) -Create, maintain, modify, extract files
-- [`top`](info/top.md) -Process monitoring tool
-- [`file`](info/file.md) -Determines type of file
-- [`ping`](info/ping.md) -Checks the cconnectivity
-- [`head `](info/head.md) -View first few lines
-- [`wc`](info/wc.md) -Count lines,words,charcters nad bytes
-- [`mkdir`](info/mkdir) -Create new directory and folders
-- [`tail`](info/tail.md) -View last part of file
-- [`du`](info/du.md) -Estimate and summarize the disk usage
-- [`df`](info/df.md) -Check disk space usage
-- [`free`](info/free.md) -Check RAM and swap memory usage
-- [`uname`](info/uname.md) -Prints system information
-- [`uptime`](info/uptime.md) -Display how long system had been running 
+> “Teach a man Linux, and he controls the server.” 😎🐧
 
+---
 
+# 📂 Contribute & Learn Linux
 
+### 📌 Master Commands (Click to View Files)
+
+- [Introduction to Linux & Basic Commands](linux-intro.md)
+- [`basic directory command`](info/linux-intro.md) – Searching directories
+- [`pwd`](info/pwd.md) – Show absolute path
+- [`cat`](info/cat.md) – Display file content
+- [`grep`](info/grep.md) – Search patterns
+- [`find`](info/find.md) – Search files anywhere
+- [`chmod`](info/chmod.md) – Manage permissions
+- [`touch`](info/touch.md) – Create files
+- [`echo`](info/echo.md) – Print text & shell operators
+- [`whoami`](info/whoami.md) – Show current user
+- [`nano`](info/nano.md) – Terminal text editor
+- [`ps`](info/ps.md) – Running processes
+- [`kill`](info/kill.md) – Terminate a process
+- [`tar`](info/tar.md) – Archive tool
+- [`top`](info/top.md) – Live system monitor
+- [`file`](info/file.md) – Identify file types
+- [`ping`](info/ping.md) – Network connectivity
+- [`head`](info/head.md) – First lines of file
+- [`wc`](info/wc.md) – Count words/lines
+- [`mkdir`](info/mkdir.md) – Create directories
+- [`tail`](info/tail.md) – Last lines of file
+- [`du`](info/du.md) – Disk usage summary
+- [`df`](info/df.md) – Disk space usage
+- [`free`](info/free.md) – Memory usage
+- [`uname`](info/uname.md) – System info
+- [`uptime`](info/uptime.md) – System running time
