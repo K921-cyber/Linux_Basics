@@ -188,6 +188,17 @@ Linux is an open-source **kernel** written by Linus Torvalds in 1991. Distros (U
 ---
 
 
+# 🤝 How to Contribute
+
+1. Fork the repository  
+3. Improve any section or add new command explanations  
+4. Submit a Pull Request  
+5. Get featured in the **Contributors Section**  
+
+> 💬 Even fixing a small typo improves the project!
+
+---
+
 
 # 📜 License
 
