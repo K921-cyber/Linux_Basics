@@ -1,24 +1,4 @@
-```mermaid
-flowchart TB
-    A[User] --> B[Web Interface Flask UI / CLI]
-    B --> C[Input Validation]
-    C --> D[Scanner Engine]
 
-    D --> E[SQL Injection Module]
-    D --> F[XSS Detection Module]
-    D --> G[CSRF Protection Module]
-    D --> H[Open Redirect Module]
-
-    E --> I[Result Aggregation]
-    F --> I
-    G --> I
-    H --> I
-
-    I --> J[Severity and OWASP Classification]
-    J --> K[PDF Report Generator]
-    K --> L[Results Display]
-
-```
 <h1 align="center">🐧 Linux Learning Path 🚀</h1>
 
 <p align="center">
