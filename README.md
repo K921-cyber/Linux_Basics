@@ -52,6 +52,115 @@ Linux is an open-source **kernel** written by Linus Torvalds in 1991. Distros (U
 - 💻 **Developer Essential** (Git, Docker, Kubernetes, CI/CD)
 
 ---
+# 🖥️ Install VirtualBox (Run Linux on Your System)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VirtualBox-Setup-blue?logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Virtualization-green?logo=linux"/>
+</p>
+
+---
+
+## 📦 What is VirtualBox?
+
+**Oracle VM VirtualBox** is a free and open-source virtualization software that allows you to run multiple operating systems (like Linux) on your current system.
+
+> 💡 Think of it as:  
+> **Your PC → runs a virtual PC inside it**
+
+---
+
+## 🚀 Steps to Download & Install VirtualBox
+
+### 🔽 Step 1: Download VirtualBox
+
+👉 Visit the official website:  
+https://www.virtualbox.org/wiki/Downloads  
+
+- Click on **Windows Hosts** (for Windows users)  
+- Select macOS/Linux accordingly  
+
+---
+
+### ⚙️ Step 2: Install VirtualBox
+
+1. Open the downloaded `.exe` file  
+2. Click **Next → Next → Install**  
+3. Allow system permissions if prompted  
+4. Wait for installation to complete  
+5. Click **Finish**
+
+---
+
+### 🔌 Step 3: Install Extension Pack (Important)
+
+- Download the **Extension Pack** from the same page  
+- Open VirtualBox  
+- Go to: **File → Preferences → Extensions**  
+- Click ➕ and add the Extension Pack  
+
+> ⚠️ Required for USB support, better performance, and advanced features
+
+---
+
+## 🐧 Run Linux on VirtualBox
+
+### 📥 Step 4: Download Linux ISO
+
+- Ubuntu → https://ubuntu.com/download  
+- Kali Linux → https://www.kali.org/get-kali/  
+
+---
+
+### 🛠️ Step 5: Create Virtual Machine
+
+1. Open VirtualBox  
+2. Click **New**  
+3. Enter Name: `Ubuntu` / `Kali`  
+4. Type: `Linux`  
+5. Version: Select appropriate distro  
+
+---
+
+### 💾 Step 6: Allocate Resources
+
+- RAM: **2GB minimum (4GB recommended)**  
+- Storage: **20GB+**
+
+---
+
+### ▶️ Step 7: Start & Install OS
+
+1. Click **Start**  
+2. Select downloaded ISO file  
+3. Follow on-screen installation  
+
+---
+
+## 🎯 Cybersecurity Tip
+
+If you're learning **Cybersecurity / VAPT / SOC**:
+
+- Use **Kali Linux** inside VirtualBox  
+- Practice tools like:
+  - `nmap`
+  - `burpsuite`
+  - `wireshark`
+- Build your own **safe home lab**
+
+---
+
+## ⭐ Pro Tip
+
+- Take snapshots before testing tools 🧪  
+- Allocate enough RAM for smooth performance ⚡  
+- Use NAT or Bridged networking depending on use-case 🌐  
+
+---
+
+> 🐧 “Don’t just use Linux — virtualize it, break it, rebuild it, master it.”
+
+---
 
 ## 🖥️ Common Linux Distributions
 
