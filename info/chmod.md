@@ -1,5 +1,3 @@
-
-
 # 🔐 chmod – Change File Permissions
 
 The `chmod` command is used to **change the access permissions** of files and directories in Unix/Linux systems. It's essential for controlling who can **read, write, or execute** a file.
