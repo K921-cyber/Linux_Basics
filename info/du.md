@@ -1,7 +1,3 @@
-
-
-
-
 # 📂 du – Disk Usage  
 
 The `du` command is used to **estimate and summarize disk space usage** of files and directories.  
@@ -9,6 +5,7 @@ The `du` command is used to **estimate and summarize disk space usage** of files
 ---
 
 ## 📌 Overview  
+
 
 - Shows how much space a directory or file is taking  
 - Useful for finding which folders consume the most storage  
