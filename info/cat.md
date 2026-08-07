@@ -1,8 +1,3 @@
-
-
-
-
-
 # 📄 cat – Concatenate and Display Files
 
 The `cat` command is used to **read**, **concatenate**, and **display** the contents of files directly in the terminal.  
