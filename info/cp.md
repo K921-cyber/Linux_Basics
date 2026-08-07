@@ -1,7 +1,3 @@
-
-
-
-
 # 📄 cp – Copy Files and Directories
 
 The `cp` command is used to **copy files or directories** from one location to another in Linux/Unix systems.  
