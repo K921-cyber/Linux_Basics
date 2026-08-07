@@ -1,6 +1,3 @@
-
-
-
 # 📦 df – Disk Space Usage  
 
 The `df` command is used to **check disk space usage** on mounted filesystems.  
